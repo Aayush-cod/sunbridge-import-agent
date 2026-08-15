@@ -1,0 +1,8 @@
+langgraph
+langchain-google-genai
+google-generativeai
+requests
+pdf2image
+python-dotenv
+pydantic
+streamlit

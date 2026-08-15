@@ -1,0 +1,15 @@
+# environment secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated data
+data/raw/
+
+
+# os junk
+.DS_Store

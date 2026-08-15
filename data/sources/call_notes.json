@@ -1,0 +1,15 @@
+{
+  "date": "2024-10-03",
+  "author": "Ramesh",
+  "raw_notes": "Model SUN-5K-G06P3, 5 kW, Deye (China). Said IP65. Weight maybe 18 kg? Installer guessed. Mentioned SGS and \"high 90s efficiency\" on the phone — nothing in writing. No label photo yet. They want something to circulate internally before the real certificates arrive. OK to mark parts as \"pending from factory\" where unsure.",
+  "claims": {
+    "model": "SUN-5K-G06P3",
+    "power": "5 kW",
+    "manufacturer": "Deye (China)",
+    "ip_rating": "IP65",
+    "weight_kg": "maybe 18 kg — installer guessed, unconfirmed",
+    "test_evidence_mentioned": "SGS (verbal only, nothing in writing)",
+    "efficiency_mentioned": "high 90s (verbal only, imprecise)",
+    "label_photo": "not available yet"
+  }
+}
