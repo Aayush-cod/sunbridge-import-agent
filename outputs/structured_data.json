@@ -1,0 +1,997 @@
+[
+  {
+    "field_name": "max_dc_input_power_kw",
+    "facts": [
+      {
+        "field_name": "max_dc_input_power_kw",
+        "value": "6.5",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. DC Input Power (kW)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "max_dc_input_voltage_v",
+    "facts": [
+      {
+        "field_name": "max_dc_input_voltage_v",
+        "value": "1100",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. DC Input Voltage (V)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "start_up_dc_input_voltage_v",
+    "facts": [
+      {
+        "field_name": "start_up_dc_input_voltage_v",
+        "value": "140",
+        "source": {
+          "document": "datasheet",
+          "detail": "Start-up DC Input Voltage (V)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "mppt_operating_range_v",
+    "facts": [
+      {
+        "field_name": "mppt_operating_range_v",
+        "value": "120-1000",
+        "source": {
+          "document": "datasheet",
+          "detail": "MPPT Operating Range (V)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "max_dc_input_current_a",
+    "facts": [
+      {
+        "field_name": "max_dc_input_current_a",
+        "value": "20+20",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. DC Input Current (A)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "max_short_circuit_current_a",
+    "facts": [
+      {
+        "field_name": "max_short_circuit_current_a",
+        "value": "30+30",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. Short Circuit Current (A)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "no_of_mpp_trackers",
+    "facts": [
+      {
+        "field_name": "no_of_mpp_trackers",
+        "value": "2",
+        "source": {
+          "document": "datasheet",
+          "detail": "No.of MPP Trackers"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "no_of_strings_per_mpp_tracker",
+    "facts": [
+      {
+        "field_name": "no_of_strings_per_mpp_tracker",
+        "value": "1+1",
+        "source": {
+          "document": "datasheet",
+          "detail": "No.of Strings per MPP Tracker"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "rated_output_power_kw",
+    "facts": [
+      {
+        "field_name": "rated_output_power_kw",
+        "value": "5",
+        "source": {
+          "document": "datasheet",
+          "detail": "Rated Output Power (kW)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "max_active_power_kw",
+    "facts": [
+      {
+        "field_name": "max_active_power_kw",
+        "value": "5.5",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. Active Power (kW)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "rated_output_voltage_range_v",
+    "facts": [
+      {
+        "field_name": "rated_output_voltage_range_v",
+        "value": "3L/N/PE 220/380V, 230/400V 0.85Un-1.1Un (this may vary with grid standards)",
+        "source": {
+          "document": "datasheet",
+          "detail": "Rated Output Voltage/Range (V)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "rated_grid_frequency_hz",
+    "facts": [
+      {
+        "field_name": "rated_grid_frequency_hz",
+        "value": "50 / 60 (Optional)",
+        "source": {
+          "document": "datasheet",
+          "detail": "Rated Grid Frequency (Hz)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "operating_phase",
+    "facts": [
+      {
+        "field_name": "operating_phase",
+        "value": "Three Phase",
+        "source": {
+          "document": "datasheet",
+          "detail": "Operating Phase"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "rated_ac_grid_output_current_a",
+    "facts": [
+      {
+        "field_name": "rated_ac_grid_output_current_a",
+        "value": "7.6/7.3",
+        "source": {
+          "document": "datasheet",
+          "detail": "Rated AC Grid Output Current (A)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "max_ac_output_current_a",
+    "facts": [
+      {
+        "field_name": "max_ac_output_current_a",
+        "value": "8.4/8",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. AC Output Current (A)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "power_factor_adjustment_range",
+    "facts": [
+      {
+        "field_name": "power_factor_adjustment_range",
+        "value": "0.8 leading to 0.8 lagging",
+        "source": {
+          "document": "datasheet",
+          "detail": "Power Factor Adjustment Range"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "total_harmonics_current_distortion_thdi",
+    "facts": [
+      {
+        "field_name": "total_harmonics_current_distortion_thdi",
+        "value": "<3%",
+        "source": {
+          "document": "datasheet",
+          "detail": "Total Harmonics Current Distortion (THDi)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "dc_injection_current_ma",
+    "facts": [
+      {
+        "field_name": "dc_injection_current_ma",
+        "value": "<0.5%",
+        "source": {
+          "document": "datasheet",
+          "detail": "DC Injection Current (mA)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "grid_frequency_range",
+    "facts": [
+      {
+        "field_name": "grid_frequency_range",
+        "value": "45-55 or 55-65 (Optional)",
+        "source": {
+          "document": "datasheet",
+          "detail": "Grid Frequency Range"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "max_efficiency",
+    "facts": [
+      {
+        "field_name": "max_efficiency",
+        "value": "98.2%",
+        "source": {
+          "document": "datasheet",
+          "detail": "Max. Efficiency"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      },
+      {
+        "field_name": "max_efficiency",
+        "value": "high 90s (verbal only, imprecise)",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: efficiency_mentioned"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "conflict",
+    "resolution_note": "Sources disagree \u2014 see individual values and confidence levels."
+  },
+  {
+    "field_name": "euro_efficiency",
+    "facts": [
+      {
+        "field_name": "euro_efficiency",
+        "value": "97.5%",
+        "source": {
+          "document": "datasheet",
+          "detail": "Euro Efficiency"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "mppt_efficiency",
+    "facts": [
+      {
+        "field_name": "mppt_efficiency",
+        "value": ">99%",
+        "source": {
+          "document": "datasheet",
+          "detail": "MPPT Efficiency"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "dc_reverse_polarity_protection",
+    "facts": [
+      {
+        "field_name": "dc_reverse_polarity_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "DC Reverse-Polarity Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "ac_short_circuit_protection",
+    "facts": [
+      {
+        "field_name": "ac_short_circuit_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "AC Short Circuit Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "ac_output_overcurrent_protection",
+    "facts": [
+      {
+        "field_name": "ac_output_overcurrent_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "AC Output Overcurrent Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "output_overvoltage_protection",
+    "facts": [
+      {
+        "field_name": "output_overvoltage_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Output Overvoltage Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "insulation_resistance_protection",
+    "facts": [
+      {
+        "field_name": "insulation_resistance_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Insulation Resistance Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "ground_fault_monitoring",
+    "facts": [
+      {
+        "field_name": "ground_fault_monitoring",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Ground Fault Monitoring"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "anti_islanding_protection",
+    "facts": [
+      {
+        "field_name": "anti_islanding_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Anti-islanding Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "temperature_protection",
+    "facts": [
+      {
+        "field_name": "temperature_protection",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Temperature Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "integrated_dc_switch",
+    "facts": [
+      {
+        "field_name": "integrated_dc_switch",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Integrated DC Switch"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "remote_software_upload",
+    "facts": [
+      {
+        "field_name": "remote_software_upload",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Remote Software Upload"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "remote_change_of_operating_parameters",
+    "facts": [
+      {
+        "field_name": "remote_change_of_operating_parameters",
+        "value": "Yes",
+        "source": {
+          "document": "datasheet",
+          "detail": "Remote Change of Operating Parameters"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "surge_protection",
+    "facts": [
+      {
+        "field_name": "surge_protection",
+        "value": "DC Type II / AC Type II",
+        "source": {
+          "document": "datasheet",
+          "detail": "Surge Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "cabinet_size_wxhxd_mm",
+    "facts": [
+      {
+        "field_name": "cabinet_size_wxhxd_mm",
+        "value": "283\u00d7463\u00d7178 (Excluding connectors and brackets)",
+        "source": {
+          "document": "datasheet",
+          "detail": "Cabinet Size (WxHxD mm)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "weight_kg",
+    "facts": [
+      {
+        "field_name": "weight_kg",
+        "value": "11",
+        "source": {
+          "document": "datasheet",
+          "detail": "Weight (kg)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      },
+      {
+        "field_name": "weight_kg",
+        "value": "maybe 18 kg \u2014 installer guessed, unconfirmed",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: weight_kg"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "conflict",
+    "resolution_note": "Sources disagree \u2014 see individual values and confidence levels."
+  },
+  {
+    "field_name": "topology",
+    "facts": [
+      {
+        "field_name": "topology",
+        "value": "Transformerless",
+        "source": {
+          "document": "datasheet",
+          "detail": "Topology"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "internal_consumption",
+    "facts": [
+      {
+        "field_name": "internal_consumption",
+        "value": "<1W (Night)",
+        "source": {
+          "document": "datasheet",
+          "detail": "Internal Consumption"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "running_temperature",
+    "facts": [
+      {
+        "field_name": "running_temperature",
+        "value": "-25 to +60\u2103, >45\u2103 Derating",
+        "source": {
+          "document": "datasheet",
+          "detail": "Running Temperature"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "ingress_protection",
+    "facts": [
+      {
+        "field_name": "ingress_protection",
+        "value": "IP65",
+        "source": {
+          "document": "datasheet",
+          "detail": "Ingress Protection"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      },
+      {
+        "field_name": "ingress_protection",
+        "value": "IP65",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: ip_rating"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "agreement",
+    "resolution_note": "All sources agree (after normalizing units/formatting)."
+  },
+  {
+    "field_name": "noise_emission_typical",
+    "facts": [
+      {
+        "field_name": "noise_emission_typical",
+        "value": "<45 dB",
+        "source": {
+          "document": "datasheet",
+          "detail": "Noise Emission (Typical)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "cooling_concept",
+    "facts": [
+      {
+        "field_name": "cooling_concept",
+        "value": "Free Cooling",
+        "source": {
+          "document": "datasheet",
+          "detail": "Cooling Concept"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "permissible_altitude_m",
+    "facts": [
+      {
+        "field_name": "permissible_altitude_m",
+        "value": "4000",
+        "source": {
+          "document": "datasheet",
+          "detail": "Permissible Altitude (m)"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "warranty",
+    "facts": [
+      {
+        "field_name": "warranty",
+        "value": "5 Years",
+        "source": {
+          "document": "datasheet",
+          "detail": "Warranty"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "grid_connection_standard",
+    "facts": [
+      {
+        "field_name": "grid_connection_standard",
+        "value": "IEC 61727, IEC 62116, EN 50549",
+        "source": {
+          "document": "datasheet",
+          "detail": "Grid Connection Standard"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "operating_surroundings_humidity",
+    "facts": [
+      {
+        "field_name": "operating_surroundings_humidity",
+        "value": "0-100%",
+        "source": {
+          "document": "datasheet",
+          "detail": "Operating Surroundings Humidity"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "safety_emc_standard",
+    "facts": [
+      {
+        "field_name": "safety_emc_standard",
+        "value": "IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2",
+        "source": {
+          "document": "datasheet",
+          "detail": "Safety / EMC Standard"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "display",
+    "facts": [
+      {
+        "field_name": "display",
+        "value": "LCD1602",
+        "source": {
+          "document": "datasheet",
+          "detail": "Display"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "interface",
+    "facts": [
+      {
+        "field_name": "interface",
+        "value": "RS485/RS232/Wifi/LAN",
+        "source": {
+          "document": "datasheet",
+          "detail": "Interface"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "model",
+    "facts": [
+      {
+        "field_name": "model",
+        "value": "SUN-5K-G06P3-EU-AM2-P1",
+        "source": {
+          "document": "buyer_form",
+          "detail": "field: item"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      },
+      {
+        "field_name": "model",
+        "value": "SUN-5K-G06P3",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: model"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "naming_variant",
+    "resolution_note": "Same underlying entity, different level of detail/shorthand \u2014 not a factual conflict."
+  },
+  {
+    "field_name": "rated_output_power",
+    "facts": [
+      {
+        "field_name": "rated_output_power",
+        "value": "5000 W",
+        "source": {
+          "document": "buyer_form",
+          "detail": "field: buyer_stated_power"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      },
+      {
+        "field_name": "rated_output_power",
+        "value": "5 kW",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: power"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "agreement",
+    "resolution_note": "All sources agree (after normalizing units/formatting)."
+  },
+  {
+    "field_name": "manufacturer_name",
+    "facts": [
+      {
+        "field_name": "manufacturer_name",
+        "value": "Ningbo Deye Inverter Technology Co., Ltd., China",
+        "source": {
+          "document": "buyer_form",
+          "detail": "field: maker"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      },
+      {
+        "field_name": "manufacturer_name",
+        "value": "Deye (China)",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: manufacturer"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "naming_variant",
+    "resolution_note": "Same underlying entity, different level of detail/shorthand \u2014 not a factual conflict."
+  },
+  {
+    "field_name": "destination_country",
+    "facts": [
+      {
+        "field_name": "destination_country",
+        "value": "Bangladesh",
+        "source": {
+          "document": "buyer_form",
+          "detail": "field: destination"
+        },
+        "confidence": "confirmed_written",
+        "notes": null
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "test_evidence",
+    "facts": [
+      {
+        "field_name": "test_evidence",
+        "value": "SGS (verbal only, nothing in writing)",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: test_evidence_mentioned"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  },
+  {
+    "field_name": "label_photo",
+    "facts": [
+      {
+        "field_name": "label_photo",
+        "value": "not available yet",
+        "source": {
+          "document": "call_notes",
+          "detail": "claim: label_photo"
+        },
+        "confidence": "verbal_unconfirmed",
+        "notes": "From phone call, 2024-10-03, not in writing."
+      }
+    ],
+    "status": "single_source",
+    "resolution_note": null
+  }
+]
